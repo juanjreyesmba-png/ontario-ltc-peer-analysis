@@ -8,9 +8,13 @@ target_homes <- c(
 
 peer_count <- 10L
 
-# Use "all_ontario" for the first analysis.
-# Change to "municipal" after adding data/raw/municipal_home_roster.csv.
-candidate_scope <- "all_ontario"
+# Select with the CANDIDATE_SCOPE environment variable in GitHub Actions.
+# Supported values are "all_ontario" and "municipal".
+candidate_scope <- Sys.getenv("CANDIDATE_SCOPE", unset = "all_ontario")
+
+if (!candidate_scope %in% c("all_ontario", "municipal")) {
+  stop("Unsupported candidate scope: ", candidate_scope, call. = FALSE)
+}
 
 source_workbook <- "data/raw/indicator-library-all-indicator-data-en.xlsx"
 municipal_roster_file <- "data/raw/municipal_home_roster.csv"
