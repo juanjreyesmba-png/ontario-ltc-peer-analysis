@@ -60,8 +60,13 @@ select_peers <- function(target_home) {
     stop("Facility size is missing for ", target_home, call. = FALSE)
   }
 
+  target_match_values <- unlist(
+    target[1, matching_variables],
+    use.names = TRUE
+  )
+
   available_variables <- matching_variables[
-    !is.na(as.numeric(target[1, matching_variables]))
+    !is.na(as.numeric(target_match_values))
   ]
 
   if (length(available_variables) == 0) {
