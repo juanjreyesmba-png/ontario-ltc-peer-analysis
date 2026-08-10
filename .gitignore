@@ -1,0 +1,9 @@
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.Renviron
+.DS_Store
+Thumbs.db
+~$*.xlsx
+*.html
