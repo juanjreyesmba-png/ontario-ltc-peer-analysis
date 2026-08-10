@@ -2,6 +2,15 @@ name: Run LTC peer analysis
 
 on:
   workflow_dispatch:
+    inputs:
+      scope:
+        description: Peer pool for the comparison
+        required: true
+        default: municipal
+        type: choice
+        options:
+          - municipal
+          - all_ontario
 
 permissions:
   contents: read
@@ -30,12 +39,14 @@ jobs:
             any::scales
 
       - name: Run peer analysis
+        env:
+          CANDIDATE_SCOPE: ${{ inputs.scope }}
         run: Rscript run_analysis.R
 
       - name: Upload analysis results
         uses: actions/upload-artifact@v4
         with:
-          name: ontario-ltc-peer-analysis-results
+          name: ontario-ltc-peer-analysis-results-${{ inputs.scope }}
           path: |
             data/processed/*.csv
             outputs/tables/*.csv
