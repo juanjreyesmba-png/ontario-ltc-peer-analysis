@@ -149,9 +149,9 @@ write_csv(
 
 message(
   "Cleaned ",
-  comma(n_distinct(quality_long$home)),
+  scales::comma(n_distinct(quality_long$home)),
   " Ontario homes and ",
-  comma(nrow(quality_long)),
+  scales::comma(nrow(quality_long)),
   " quality-result rows."
 )
 
