@@ -37,9 +37,26 @@ if (candidate_scope == "municipal") {
     )
   }
 
-  permitted_homes <- unique(municipal_roster$place_or_organization)
+  roster_total <- nrow(municipal_roster)
+
+  if ("match_status" %in% names(municipal_roster)) {
+    matched_roster <- municipal_roster |>
+      filter(match_status == "matched")
+  } else {
+    matched_roster <- municipal_roster
+  }
+
+  permitted_homes <- unique(matched_roster$place_or_organization)
   home_characteristics <- home_characteristics |>
     filter(home %in% union(permitted_homes, target_homes))
+
+  message(
+    "Municipal roster: ",
+    roster_total,
+    " homes; ",
+    n_distinct(home_characteristics$home),
+    " have usable records in the current CIHI workbook."
+  )
 }
 
 missing_targets <- setdiff(target_homes, home_characteristics$home)
@@ -116,7 +133,8 @@ select_peers <- function(target_home) {
       target_home = target_home,
       peer_home = home,
       match_distance = distances,
-      match_rule = match_rule
+      match_rule = match_rule,
+      candidate_scope = .env$candidate_scope
     ) |>
     arrange(match_distance, peer_home) |>
     slice_head(n = peer_count) |>
@@ -125,6 +143,7 @@ select_peers <- function(target_home) {
       peer_home,
       match_distance,
       match_rule,
+      candidate_scope,
       facility_size,
       setting,
       all_of(available_variables)
