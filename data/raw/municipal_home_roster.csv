@@ -1,0 +1,103 @@
+place_or_organization,roster_home,municipal_operator,community,match_status,match_method
+City of Toronto — Bendale Acres,Bendale Acres,City of Toronto,Scarborough,matched,exact_name
+City of Toronto — Carefree Lodge,Carefree Lodge,City of Toronto,North York,matched,exact_name
+City of Toronto — Castleview Wychwood Towers,Castleview Wychwood Towers,City of Toronto,Toronto,matched,exact_name
+City of Toronto — Cummer Lodge,Cummer Lodge,City of Toronto,North York,matched,exact_name
+City of Toronto — Fudger House,Fudger House,City of Toronto,Toronto,matched,exact_name
+City of Toronto — Kipling Acres,Kipling Acres,City of Toronto,Etobicoke,matched,exact_name
+City of Toronto — Lakeshore Lodge,Lakeshore Lodge,City of Toronto,Etobicoke,matched,exact_name
+City of Toronto — Seven Oaks,Seven Oaks,City of Toronto,Scarborough,matched,exact_name
+City of Toronto — True Davidson Acres,True Davidson Acres,City of Toronto,East York,matched,exact_name
+City of Toronto — Wesburn Manor,Wesburn Manor,City of Toronto,Etobicoke,matched,exact_name
+City of Ottawa — Carleton Lodge,Carleton Lodge,City of Ottawa,Nepean,matched,exact_name
+City of Ottawa — Centre d’acceuil Champlain,Centre d'accueil Champlain,City of Ottawa,Ottawa,matched,fuzzy_review
+City of Ottawa — The Armstrong Home,Garry J. Armstrong Home,City of Ottawa,Ottawa,matched,fuzzy_review
+City of Ottawa — Peter D. Clark Centre,Peter D. Clark Centre,City of Ottawa,Ottawa,matched,exact_name
+City of Hamilton — Macassa Lodge,Macassa Lodge,City of Hamilton,Hamilton,matched,exact_name
+City of Hamilton — Wentworth Lodge,Wentworth Lodge,City of Hamilton,Dundas,matched,exact_name
+Dearness Home (Ont.),Dearness Home for Senior Citizens,City of London,London,matched,fuzzy_review
+Huron Lodge (Ont.),Huron Lodge,City of Windsor,Windsor,matched,exact_name
+Pioneer Manor Long Term Care Facility (Ont.),Pioneer Manor,City of Greater Sudbury,Sudbury,matched,fuzzy_review
+City of Thunder Bay — Pioneer Ridge,Pioneer Ridge,City of Thunder Bay,Thunder Bay,matched,exact_name
+Golden Manor Home for the Aged (Ont.),Golden Manor,City of Timmins,Timmins,matched,fuzzy_review
+Victoria Manor (Ont.),Victoria Manor Home for the Aged,City of Kawartha Lakes,Lindsay,matched,manual_verified_name
+Grandview Lodge (Ont.),Grandview Lodge / Dunnville,Haldimand County,Dunnville,matched,fuzzy_review
+Norview Lodge (Ont.),Norview Lodge,Norfolk County,Simcoe,matched,exact_name
+John Noble Home (Ont.),John Noble Home,City of Brantford and County of Brant,Brantford,matched,exact_name
+Riverview Gardens (Ont.),Riverview Gardens,The Municipality of Chatham-Kent,Chatham,matched,exact_name
+Fairhaven (Ont.),Fairhaven,City and County of Peterborough,Peterborough,matched,exact_name
+Fairmount Home (Ont.),Fairmount Home,County of Frontenac,Glenburnie,matched,exact_name
+Glen Stor Dun Lodge (Ont.),Glen-Stor-Dun Lodge,City of Cornwall and United Counties of Stormont Dundas and Glengarry,Cornwall,matched,exact_name
+County of Hastings — Hastings Manor,Hastings Manor Home for the Aged,County of Hastings,Belleville,matched,fuzzy_review
+County of Hastings — Hastings Centennial Manor,Hastings Centennial Manor,County of Hastings,Bancroft,matched,exact_name
+H. J. McFarland Memorial Home (Ont.),H.J. McFarland Memorial Home,County of Prince Edward,Picton,matched,exact_name
+Region of Durham — Fairview Lodge,Fairview Lodge,Regional Municipality of Durham,Whitby,matched,exact_name
+Region of Durham — Hillsdale Estates,Hillsdale Estates,Regional Municipality of Durham,Oshawa,matched,exact_name
+Region of Durham — Hillsdale Terraces,Hillsdale Terraces,Regional Municipality of Durham,Oshawa,matched,exact_name
+Region of Durham — Lakeview Manor,Lakeview Manor,Regional Municipality of Durham,Beaverton,matched,exact_name
+Regional Municipality of Halton — Allendale,Allendale,Regional Municipality of Halton,Milton,matched,exact_name
+Regional Municipality of Halton — Creek Way Village,Creek Way Village,Regional Municipality of Halton,Burlington,matched,exact_name
+Regional Municipality of Halton — Post Inn Village,Post Inn Village,Regional Municipality of Halton,Oakville,matched,exact_name
+Regional Municipality of Niagara — Deer Park Villa,Deer Park Villa,Regional Municipality of Niagara,Grimsby,matched,exact_name
+Regional Municipality of Niagara — Douglas H. Rapelje Lodge,Douglas H. Rapelje Lodge,Regional Municipality of Niagara,Welland,matched,exact_name
+Gilmore Lodge,Gilmore Lodge,Regional Municipality of Niagara,Fort Erie,unmatched,fuzzy_review
+Regional Municipality of Niagara — Linhaven,Linhaven,Regional Municipality of Niagara,St. Catharines,matched,exact_name
+Regional Municipality of Niagara — The Meadows of Dorchester Manor,The Meadows of Dorchester,Regional Municipality of Niagara,Niagara Falls,matched,fuzzy_review
+Regional Municipality of Niagara — Northland Pointe,Northland Pointe,Regional Municipality of Niagara,Port Colborne,matched,exact_name
+Upper Canada Lodge,Upper Canada Lodge,Regional Municipality of Niagara,Niagara-on-the-Lake,unmatched,fuzzy_review
+Regional Municipality of Niagara — The Woodlands of Sunset,Woodlands of Sunset,Regional Municipality of Niagara,Welland,matched,fuzzy_review
+Reg. Municipality of Peel — Malton Village Long Term Care Centre,Malton Village Long-Term Care Centre,Regional Municipality of Peel,Mississauga,matched,exact_name
+Reg. Municipality of Peel — Peel Manor,Peel Manor,Regional Municipality of Peel,Brampton,matched,exact_name
+Reg. Municipality of Peel — Sheridan Villa,Sheridan Villa,Regional Municipality of Peel,Mississauga,matched,exact_name
+Reg. Municipality of Peel — Tall Pines Long Term Care Centre,Tall Pines Long-Term Care Centre,Regional Municipality of Peel,Brampton,matched,exact_name
+Reg. Municipality of Peel — Vera M. Davis Community Care Centre,Vera M. Davis Community Care Centre,Regional Municipality of Peel,Bolton,matched,exact_name
+Sunnyside Home (Ont.),Sunnyside Home,Regional Municipality of Waterloo,Kitchener,matched,exact_name
+Regional Municipality of York — Maple Health Centre,York Region Maple Health Centre,Regional Municipality of York,Maple,matched,fuzzy_review
+Regional Municipality of York — Newmarket Health Centre,York Region Newmarket Health Centre,Regional Municipality of York,Newmarket,matched,fuzzy_review
+County of Bruce — Brucelea Haven,Brucelea Haven,County of Bruce,Walkerton,matched,exact_name
+County of Bruce — Gateway Haven,Gateway Haven,County of Bruce,Wiarton,matched,exact_name
+Dufferin Oaks Home for the Aged (Ont.),Dufferin Oaks,County of Dufferin,Shelburne,matched,fuzzy_review
+County of Elgin — Bobier Villa,Bobier Villa,County of Elgin,Dutton,matched,exact_name
+County of Elgin — Elgin Manor,Elgin Manor,County of Elgin,St. Thomas,matched,exact_name
+County of Elgin — Terrace Lodge,Terrace Lodge,County of Elgin,Aylmer,matched,exact_name
+Sun Parlor Home for Senior Citizens (Ont.),Sun Parlor Home for Senior Citizens,County of Essex,Leamington,matched,exact_name
+County of Grey — Grey Gables,Grey Gables Home for the Aged,County of Grey,Markdale,matched,fuzzy_review
+County of Grey — Lee Manor,Lee Manor Home,County of Grey,Owen Sound,matched,fuzzy_review
+County of Grey — Rockwood Terrace,Rockwood Terrace,County of Grey,Durham,matched,exact_name
+County of Huron — Huronlea Home for the Aged,Huronlea Home for the Aged,County of Huron,Brussels,matched,exact_name
+County of Huron — Huronview Home for the Aged,Huronview Home for the Aged,County of Huron,Clinton,matched,exact_name
+County of Lambton — Lambton Meadowview Villa,Lambton Meadowview Villa,County of Lambton,Petrolia,matched,exact_name
+County of Lambton — Marshall Gowland Manor,Marshall Gowland Manor,County of Lambton,Sarnia,matched,exact_name
+County of Lambton — North Lambton Lodge,North Lambton Lodge,County of Lambton,Forest,matched,exact_name
+Lanark Lodge (Ont.),Lanark Lodge,County of Lanark,Perth,matched,exact_name
+Maple View Lodge (Ont.),Maple View Lodge,United Counties of Leeds and Grenville,Athens,matched,exact_name
+The John M. Parrott Centre (Ont.),The John M. Parrott Centre,County of Lennox and Addington,Napanee,matched,exact_name
+Strathmere Lodge (Ont.),Strathmere Lodge,County of Middlesex,Strathroy,matched,exact_name
+Golden Plough Lodge (Ont.),Golden Plough Lodge,County of Northumberland,Cobourg,matched,exact_name
+Woodingford Lodge — Ingersoll,Woodingford Lodge - Ingersoll,County of Oxford,Ingersoll,matched,exact_name
+Woodingford Lodge — Tillsonburg,Woodingford Lodge - Tillsonburg,County of Oxford,Tillsonburg,matched,exact_name
+Woodingford Lodge — Woodstock,Woodingford Lodge - Woodstock,County of Oxford,Woodstock,matched,exact_name
+Spruce Lodge Municipal Home for the Aged (Ont.),Spruce Lodge,County of Perth City of Stratford and Town of St. Marys,Stratford,matched,fuzzy_review
+Prescott & Russell Residence (Ont.),The Prescott and Russell Residence,United Counties of Prescott and Russell,Hawkesbury,matched,fuzzy_review
+County of Renfrew — Bonnechere Manor,Bonnechere Manor,County of Renfrew,Renfrew,matched,exact_name
+County of Renfrew — Miramichi Lodge,Miramichi Lodge,County of Renfrew,Pembroke,matched,exact_name
+County of Simcoe — Georgian Manor,Georgian Manor,County of Simcoe,Penetanguishene,matched,exact_name
+County of Simcoe — Simcoe Manor Home for the Aged,Simcoe Manor Home for the Aged,County of Simcoe,Beeton,matched,exact_name
+County of Simcoe — Sunset Manor Home for Senior Citizens,Sunset Manor Home for Senior Citizens,County of Simcoe,Collingwood,matched,exact_name
+County of Simcoe — Trillium Manor Home for the Aged,Trillium Manor Home for the Aged,County of Simcoe,Orillia,matched,exact_name
+Wellington Terrace Long Term Care Home (Ont.),Wellington Terrace Long-Term Care Home,County of Wellington,Fergus,matched,exact_name
+The Pines Long Term Care Residence (Ont.),The Pines,The District Municipality of Muskoka,Bracebridge,matched,fuzzy_review
+Fairvern (Ont.),Fairvern,The District Municipality of Muskoka,Huntsville,matched,exact_name
+Haliburton Highlands Health Services — Haliburton (Ont.),Highland Wood,County of Haliburton,Haliburton,matched,manual_verified_name
+Haliburton Highlands Health Services — Minden (Ont.),Hyland Crest,County of Haliburton,Minden,matched,manual_verified_name
+Cassellholme (Ont.),Cassellholme,Board of Management for the District of Nipissing East,North Bay,matched,exact_name
+Au Château (Ont.),Au Chateau,Board of Management for the District of Nipissing West,Sturgeon Falls,matched,exact_name
+Eastholme Home for the Aged (Ont.),Eastholme Home for the Aged,Board of Management for the District of Parry Sound East,Powassan,matched,exact_name
+Belvedere Heights (Ont.),Belvedere Heights,Board of Management for the District of Parry Sound West,Parry Sound,matched,exact_name
+The District of Kenora Home for the Aged — Pinecrest Home,Pinecrest (Kenora),Board of Management of the District of Kenora,Kenora,matched,manual_verified_name
+The District of Kenora Home for the Aged — Northwood Lodge,Northwood Lodge,Board of Management of the District of Kenora,Red Lake,matched,exact_name
+The District of Kenora Home for the Aged — Princess Court,Princess Court,Board of Management of the District of Kenora,Dryden,matched,exact_name
+Manitoulin Centennial Manor,Manitoulin Centennial Manor Home for the Aged,Board of Management for the District of Manitoulin,Little Current,matched,manual_verified_name
+Teck Pioneer Residence (Ont.),Teck Pioneer Residence,Town of Kirkland Lake,Kirkland Lake,matched,exact_name
+The Elliott Community (Ont.),The Elliott Long Term Care Residence,City of Guelph / The Elliott local board,Guelph,matched,manual_verified_name
+Foyer des Pionniers (Ont.),Foyer Des Pionniers,Foyer Hearst-Mattice - Soins de Sante municipal/local board,Hearst,matched,exact_name
